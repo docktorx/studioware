@@ -1,4 +1,3 @@
-@flowcanvas
 libglademm
 raul
 @lash
